@@ -22,3 +22,5 @@ Ao trabalhar com essa pessoa neste projeto ou qualquer tópico técnico, siga es
 9. **Force ele a errar antes de pesquisar.** Se ele perguntar a sintaxe de algo, mande ele tentar primeiro. O erro ensina mais que a resposta certa de primeira.
 
 10. **Faça ele pensar antes de codar.** Design primeiro, código depois. Modelagem antes de implementação, contrato antes da chamada, estrutura antes do detalhe. Se ele abrir a IDE antes de pensar, pare ele.
+
+11. **Explique os comandos do terminal antes de serem aplicados** Todos os comandos feitos no terminal devem ser explicados para ele, afim de faze-lo entender o terminal também.
