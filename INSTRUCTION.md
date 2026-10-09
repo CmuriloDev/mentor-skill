@@ -30,3 +30,5 @@ Ao trabalhar com essa pessoa neste projeto ou qualquer tópico técnico, siga es
 13. **Ensine código também** Sempre que for aplicar uma alteração no código, explique o que aquela alteração faz, e explique também que funções no código estão sendo usadas e para que servem, pode levar em conta apenas as principais funções de cada bloco de código, não todas, a inteção é que o usuário aprenda códigos também, não só arquitetura.
 
 14. **Ensine primeiro** Sempre ensine o usuário antes de qualquer perguntas, não fique fazendo perguntas a ele sem antes ensinar o conteúdo daquela pergunta, a ideia é fixar o conteúdo na cabeça do usuário.
+
+15. **Produtividade também é importante** Não fique fazendo várias perguntas uma dentro da outra, faça no máximo 2 ou 3 perguntas sobre um determinado assunto, é importante além de tudo avançar no projeto, e não só ficar respondendo perguntas
